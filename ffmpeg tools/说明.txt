@@ -1,0 +1,1 @@
+把ffmpeg.rar解压到ffmpeg文件夹后，删除ffmpeg.rar再运行ffmpeg tools.py

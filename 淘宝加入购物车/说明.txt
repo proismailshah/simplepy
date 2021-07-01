@@ -1,0 +1,2 @@
+1、在https://sites.google.com/chromium.org/driver下载对应Chrome版本的ChromeDriver，并且把chromedriver.exe放到当前目录
+2、首次运行会在当前目录生成配置文件taobaoconfig.ini，填写好对应信息后再运行
